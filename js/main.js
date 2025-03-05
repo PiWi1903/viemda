@@ -157,12 +157,12 @@ $(document).ready(function (e) {
       },
 
       {
-        text: "Bạn đang có triệu trứng các Bệnh về Viêm Da cơ địa (Tổ đỉa, Vảy nến, Á sừng, Hắc lào)<br> Cần nghe lời khuyên đến từ những Chuyên gia hàng đầu tại Học Viện Quân Y ",
-        m: { text: "Nghe Bác sĩ Chuyên Khoa tư vấn" },
+        text: "Bạn đang có triệu chứng các Bệnh về Viêm Da cơ địa (Tổ đỉa, Vảy nến, Á sừng, Hắc lào)<br> Cần nghe lời khuyên đến từ những Chuyên gia hàng đầu Việt Nam ",
+        m: { text: "Nghe Chuyên gia tư vấn" },
         w: { text: "Tạm thời chưa có nhu cầu" },
       },
       {
-        text: "Bạn hãy cung cấp Năm sinh để các bác sĩ Tư vấn chính xác tiền sử bệnh ",
+        text: "Bạn hãy cung cấp Năm sinh để Tôi Tư vấn chính xác tiền sử bệnh ",
       },
     ]),
     (e.userZodiak = [
@@ -176,10 +176,6 @@ $(document).ready(function (e) {
           [
             {
               text: "Khi có nhu cầu nghe tư vấn về các bệnh lý về Da hãy liên hệ với chúng tôi <br>",
-            },
-
-            {
-              text: '<br><video width="400px" autoplay src="video.mp4"></br>',
             },
           ],
           [{ text: " " }],
@@ -197,7 +193,7 @@ $(document).ready(function (e) {
               text: "Bệnh viêm da cơ địa không nguy hiểm đến tính mạng nhưng ảnh hưởng nghiêm trọng đến sức khỏe, bệnh gây chướng ngại về tâm lý vì ảnh hưởng đến thẩm mỹ và giao tiếp; ngứa nhiều gây mất ngủ, giảm tập trung trong công việc, gây khó chịu và trầm cảm cho người bệnh, làm giảm chất lượng cuộc sống.<br>Nếu bệnh viêm da cơ địa không được điều trị đúng cách và chăm sóc da thường xuyên có thể khiến bệnh trở nặng gây ra những biến chứng phức tạp như: Viêm da thần kinh, viêm da cơ địa bội nhiễm, sốt cao, đau nhức, sưng hạch bạch huyết,...",
             },
             {
-              text: "Cho đến thời điểm hiện tại, các kiến thức y khoa vẫn chưa đủ cơ sở để có thể chỉ rõ nguyên nhân dẫn đến tình trạng á sừng ở nhiều người.<br>Tuy nhiên, một số nghiên cứu đã chứng minh rằng, bệnh nhân mắc phải bệnh lý này do cơ địa bị viêm da thì một số yếu tố sau đây có thể là tác nhân chính. Cụ thể gồm:",
+              text: "Cho đến thời điểm hiện tại, các kiến thức y khoa vẫn chưa đủ cơ sở để có thể chỉ rõ nguyên nhân dẫn đến tình trạng Viêm Da cơ địa ở nhiều người.<br>Tuy nhiên, một số nghiên cứu đã chứng minh rằng, bệnh nhân mắc phải bệnh lý này do cơ địa bị viêm da thì một số yếu tố sau đây có thể là tác nhân chính. Cụ thể gồm:",
             },
             {
               text: "Dị ứng cơ địa: bệnh nhân thường là những đối tượng có hệ miễn dịch kém, dễ bị rối loạn. <br>Trong đó, sự kích ứng của da cũng là dấu hiệu cảnh báo cơ thể đang trong tình trạng phản ứng ngược lại với tác nhân gây bệnh. Do đó, cách chữa bệnh á sừng cho những trường hợp này thường dễ dàng hơn.",
@@ -236,7 +232,6 @@ $(document).ready(function (e) {
             {
               text: "VTV Đưa Tin cùng rất nhiều các giáo sư, bác sĩ và người nổi tiếng khuyên dùng",
             },
-            { text: '<br><video width="400px" autoplay src="video.mp4"></br>' },
           ],
           [{ text: " " }],
         ],
